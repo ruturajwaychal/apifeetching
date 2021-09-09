@@ -1,0 +1,11 @@
+.heading {
+  text-align: center;
+  margin-top: 5px;
+  color: teal;
+}
+
+.search-bar {
+  width: 490px;
+  margin-bottom: 5px;
+  align-items: center;
+}
